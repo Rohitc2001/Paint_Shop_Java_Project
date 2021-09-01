@@ -1,0 +1,106 @@
+.circle
+{
+float:left;
+height:100px;
+width:100px;
+margin:20px;
+shape-outside: circle();
+clip-path: circle();
+}
+table
+{
+text-align:center;
+}
+
+.red-button{
+	width:80px;
+	height:30px;
+	background-color:red;
+	border:0;
+	padding:20px;
+}
+.orange-button{
+	width:80px;
+	height:30px;
+	background-color:orange;
+	border:0;
+	padding:20px;
+}
+.yellow-button{
+	width:80px;
+	height:30px;
+	background-color:yellow;
+	border:0;
+	padding:20px;
+}
+.green-button{
+	width:80px;
+	height:30px;
+	background-color:lightgreen;
+	border:0;
+	padding:20px;
+}
+.blue-button{
+	width:80px;
+	height:30px;
+	background-color:#314bc8;
+	border:0;
+	padding:20px;
+}
+.pink-button{
+	width:80px;
+	height:30px;
+	background-color:lightpink;
+	border:0;
+	padding:20px;
+}
+.purple-button{
+	width:80px;
+	height:30px;
+	background-color:purple;
+	border:0;
+	padding:20px;
+}
+.pastel-button{
+	width:80px;
+	height:30px;
+	background-color:thistle;
+	border:0;
+	padding:20px;
+}
+.brown-button{
+	width:80px;
+	height:30px;
+	background-color:brown;
+	border:0;
+	padding:20px;
+}
+
+.white-button{
+	width:80px;
+	height:30px;
+	background-color:white;
+	border:0;
+	padding:20px;
+}
+.grey-button{
+	width:80px;
+	height:30px;
+	background-color:gray;
+	border:0;
+	padding:20px;
+}
+.black-button{
+	width:80px;
+	height:30px;
+	background-color:black;
+	border:0;
+	padding:20px;
+}
+.back-button{
+	width:80px;
+	height:50px;
+	font-size: 20px;
+	background-color:teal;
+	border:1px solid black;
+}
